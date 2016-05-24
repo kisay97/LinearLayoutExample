@@ -6,10 +6,9 @@
 	<TextView  
 		android:id="@+id/button01"
 	    android:layout_width="match_parent" 
-	    android:layout_height="match_parent" 
-	    android:gravity="left|top"
-	    android:text="left|top"
+	    android:layout_height="match_parent"
+		android:text="left|top"
 	    android:textColor="#ffff0000"
 	    android:textSize="32dp"
-	    />
+		android:gravity="top|left" />
 </LinearLayout>
